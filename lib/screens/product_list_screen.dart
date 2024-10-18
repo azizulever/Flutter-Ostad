@@ -14,7 +14,7 @@ class _ProductListScreenState extends State<ProductListScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Product List"),
+        title: const Text("Product ist"),
       ),
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 16.0),
